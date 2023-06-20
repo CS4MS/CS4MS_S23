@@ -29,7 +29,7 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 5
   - [Exercise 5: Metrics and Object Oriented Programming](https://colab.research.google.com/github/CS4MS/CS4MS_S23/blob/main/exercises/Exercise_5.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S23/blob/main/solutions/Exercise_5_Solution.ipynb)
-- Week 7
+- Week 6
   - [Lecture 6: Transformations and Dataloader](https://colab.research.google.com/github/CS4MS/CS4MS_S23/blob/main/lectures/Lecture_6.ipynb)
   - [Exercise 6: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/CS4MS/CS4MS_S23/blob/main/exercises/Exercise_6.ipynb) 
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S23/blob/main/solutions/Exercise_6_Solution.ipynb)
